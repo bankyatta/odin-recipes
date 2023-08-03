@@ -1,0 +1,22 @@
+body h1{
+    text-align: center;
+    margin: auto;
+    background-color: palevioletred;
+    color: white;
+}
+
+.recipes {
+    margin-left: 0;
+    margin-top: 2%;
+    text-align: left;
+}
+
+body img{
+    height: auto;
+    width: 50%;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+
+
